@@ -1,5 +1,3 @@
-# xc-code-challenge - Oscar Gonzalez Submission - ozzgn@me.com (407-864-2923)
-
 ## Description
 
 The requested three-item content grid has been developed with the help of Sass. The page is fully responsive without the use of any CSS Frameworks. The user is able to swap any of the images inside the three mods by dragging and dropping them.
